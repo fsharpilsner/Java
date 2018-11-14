@@ -1,0 +1,955 @@
+
+
+
+Por favor, indique en qué país se encuentra su consulta.
+
+
+UK n=50
+France n=50
+Germany n=50
+Italy n=50
+
+
+
+
+
+S1¿Cuántos años lleva ejerciendo como especialista en el tratamiento de la hepatitis B crónica?Por favor, introduzca un número.
+
+
+
+
+
+
+¿Cuál es la descripción más exacta de su especialidad médica principal?
+
+
+UK: 100% Gastro/Heps France: 100% Gastro/Heps Germany: 66% Gastros, 33% IM Italy:  33% Gastros, 33% ID, 33% IM Spain: 100% Gastros Por favor, elija una opción.
+
+Gastroenterología	1 
+Hepatología	2   
+Infectious disease specialist	3  Italy only
+Internal medicine specialist	4  Italy / Germany only
+Hepato-gastroenterologist 	5  France only
+
+
+
+
+¿Cuál de las siguientes opciones describe mejor el lugar donde trabaja? 
+
+
+Germany:
+GASTROS/HEPS: 50% hospital (codes 1 or 2) / 50% non-hospital (codes 3, 4 or 5) / 
+
+IM: 50% hospital (codes 1 or 2) / 50% non-hospital (codes 3, 4 or 5) 
+ 
+France, UK, Italy and Spain: 
+
+100% of the physicians have to practice all or mainly at the hospital (codes 1 or 2)
+Todo el tiempo en hospital	1 
+
+Principalmente en hospital	2 
+
+
+
+
+
+
+
+S4¿Qué porcentaje de su carga de trabajo representa la hepatitis B crónica?Por favor, introduzca un porcentaje.
+
+
+
+
+
+
+
+
+
+
+Resp instruction: Si la respuesta es “ninguno”, introduzca un 0.
+
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
+Para el resto del estudio, por favor considere sólo a los pacientes monoinfectados con VHB crónica a quienes haya visto (es decir, en visitas de seguimiento o para tratarles). 
+
+
+
+
+Q1.1
+Spont.
+Awareness¿Qué terapias disponibles en la actualidad para la hepatitis B crónica conoce? Por favor, enumere todos los nombres de fármacos que recuerde.
+
+
+
+Q1.2
+Prompted 
+
+
+Respondent instruction:
+Por favor, elija todas las opciones que sean pertinentes.
+
+
+¿Cuáles de las siguientes terapias farmacológicas para la hepatitis B crónica conoce?
+
+adefovir dipivoxil (Hepsera)	1 
+
+interferón (Intron A, 
+Roferon A, Viraferon, Pegasys)	2 
+
+Code 3 has been removed  
+
+lamivudina (Zeffix)	4  
+
+tenofovir (Viread) 	5  
+
+entecavir (Baraclude)	6 
+
+
+Q1.3
+
+
+Respondent instruction:
+Por favor, elija todas las monoterapias y las terapias de combinación que sean pertinentes.
+
+¿Cuáles de las siguientes terapias farmacológicas ha recetado alguna vez para el tratamiento de la hepatitis B crónica? 
+
+Monoterapias  
+
+adefovir dipivoxil (Hepsera)	1 
+
+interferón (Intron A, 
+Roferon A, Viraferon, Pegasys)	2 
+
+Code 3 has been removed  
+
+lamivudina (Zeffix)	4  
+
+tenofovir (Viread) 	5  
+
+entecavir 0,5 mg (Baraclude)	6 
+entecavir 1,0 mg (Baraclude)	7 
+
+Otra monoterapia 
+(por favor, especifique) 	99
+
+Terapias de combinación
+lamivudina + adefovir……………. 20
+Code 21 has been removed 
+
+lamivudina + tenofovir……..……   22
+
+lamivudina + cualquier interferón……    23
+
+adefovir + entecavir ………………24 
+
+adefovir + cualquier interferón ………    25
+entecavir + cualquier interferón……….  26
+
+Otra terapia de combinación
+(Por favor, especifique)……………………….99
+
+
+Q1.4
+Market accessPor razones fuera de su control, los médicos como usted no siempre pueden recetar los fármacos que les gustaría recetar. 
+
+Por favor, lea la siguiente lista de razones e indique si son pertinentes o no a cada uno de los fármacos que usted podría usar o usa.
+
+
+
+MARCAS
+
+adefovir dipivoxil (Hepsera) 
+
+interferón (Intron A, 
+Roferon A, Viraferon, Pegasys) 
+
+lamivudina (Zeffix) 
+
+tenofovir (Viread) 
+
+entecavir (Baraclude) 
+
+
+
+
+
+
+
+
+No está autorizado en mi hospital o en mi consulta	1 
+
+Está autorizado, pero sólo para tipos
+específicos de pacientes	2  
+
+No existe ninguna restricción para mis
+recetas de este fármaco	3  
+
+Hay otras restricciones para mis 
+recetas de este fármaco	4
+(por favor, especifique qué restricciones)
+  Q1.5
+Current usageEn lo que se refiere a todos sus pacientes con monoinfección por VHB crónica, por favor indique qué porcentaje de esos pacientes está tomando cada uno de los siguientes fármacos.
+La suma de todas las monoterapias y terapias de combinación farmacológicas seleccionadas debería ser el 100%. 
+ 
+
+
+
+Monoterapias  
+
+adefovir dipivoxil (Hepsera)	1 
+
+interferón (Intron A, 
+Roferon A, Viraferon, Pegasys)	2 
+
+Code 3 has been removed  
+
+lamivudina (Zeffix)	4  
+
+tenofovir (Viread) 	5  
+
+entecavir 0,5 mg (Baraclude)	6 
+entecavir 1,0 mg (Baraclude)	7 
+
+Otra monoterapia 
+(por favor, especifique) 	99
+
+Terapias de combinación
+lamivudina + adefovir……………. 20
+Code 21 has been removed 
+
+lamivudina + tenofovir……..……   22
+
+lamivudina + cualquier interferón……    23
+
+adefovir + entecavir ………………24 
+
+adefovir + cualquier interferón ………    25
+entecavir + cualquier interferón……….  26
+
+Otra terapia de combinación
+(Por favor, especifique)……………………99
+
+Add a total row (so resp can see how many % they have given
+Q1.6
+Adoption / preferencePor favor, ordene los tres tratamientos con receta médica que más prefiera para cada uno de los tipos de pacientes enumerados. 
+Por favor, elija tres medicaciones para cada tipo de paciente escribiendo el número 1 al lado de la que más prefiera, el número 2 al lado de la segunda que más prefiera y el número 3 al lado de la tercera que más prefiera.
+ 
+Si no tiene ningún paciente que corresponda a alguna de estas categorías, marque la opción “No tengo ninguno de esos pacientes/derivo esos pacientes a otros médicos”.
+
+
+1. Tratamiento de primera línea en pacientes con HBeAg positivo (enfermedad hepática compensada).
+ 2.  Tratamiento de primera línea en pacientes con HBeAg negativo (enfermedad hepática compensada).
+3. Pacientes con cirrosis descompensada.
+
+4. Pacientes resistentes a la lamivudina. 
+5. Pacientes resistentes al adefovir.
+6. Pacientes con respuesta subóptima al adefovir.
+7. Tratamiento de primera línea en pacientes con carga viral alta (> 8 log) 
+8. Pacientes que no responden al interferón pegilado.
+
+9. Tratamiento preventivo en caso de quimioterapia o de tratamiento inmunosupresor.
+
+
+
+
+
+No tengo ninguno de esos pacientes/derivo esos pacientes a otros médicos.
+
+
+Monoterapias  
+
+adefovir dipivoxil (Hepsera)	1 
+
+interferón estándar (Intron A, 
+Roferon A, Viraferon, Pegasys)	2 
+
+Code 3 has been removed  
+
+lamivudina (Zeffix)	4  
+
+tenofovir (Viread) 	5  
+
+entecavir 0,5 mg (Baraclude)	6 
+entecavir 1,0 mg (Baraclude)	7 
+
+Otra monoterapia 
+(por favor, especifique) 	99
+
+Terapias de combinación
+lamivudina + adefovir……………. 20
+Code 21 has been removed 
+
+lamivudina + tenofovir……..……   22
+
+lamivudina + cualquier interferón……    23
+
+adefovir + entecavir ………………24 
+
+adefovir + cualquier interferón ………    25
+entecavir + cualquier interferón……….  26
+
+Otra terapia de combinación
+(Por favor, especifique)……………………99
+Q1.7
+MomentumPensando en el futuro, en los próximos 12 meses, ¿espera que el número de recetas que extenderá de cada una de las siguientes terapias farmacológicas para la hepatitis B crónica aumente, disminuya o permanezca igual? 
+
+
+
+Escala
+Aumentará de forma significativa	1  
+Aumentará algo	2
+Permanecerá igual	3  
+Disminuirá algo	4
+Disminuirá de forma significativa	5  
+No espero usarlo en el futuro	6
+
+  
+
+
+
+Q2.1
+Need satisfactionUsando la siguiente escala de 10 puntos, ¿qué puntuación daría a cada uno de estos fármacos en lo que se refiere a satisfacer sus necesidades a la hora de tratar a los pacientes con hepatitis B crónica?
+ 
+
+
+
+No satisface mis necesidades para nada	1  
+Satisface perfectamente mis necesidades	10
+
+No lo sé / no estoy seguro/a	99  
+  
+Q2.2
+Brand involvementPor favor, indique la importancia del papel que cada fármaco desempeña en su práctica. 
+
+
+
+Escala: 
+
+No es nada importante	1  
+Es sumamente importante	7
+
+99 = No lo sé / no estoy seguro/a
+Q2.3
+Awareness of new products Por favor, piense en todos los nuevos fármacos para la hepatitis B crónica que conozca y que se espera que salgan al mercado durante los próximos 2 años. Escriba abajo los nombres de TODOS esos fármacos.
+
+
+
+Q2.4
+Prompted 
+Awareness of new productsRespondent instruction:
+Por favor, elija todas las opciones que sean pertinentes.
+
+
+Y, ¿cuáles de los siguientes productos que están en desarrollo para la hepatitis B crónica conoce? 
+
+
+telbivudina (Sebivo)	1 
+
+clevudina	2  	 
+
+valtorcitabina	3
+
+pradefovir	4  
+
+tenofovir (Viread)	5  
+
+LB80380/ANA 380	6 
+
+Emtricitabine has been removed 
+
+
+Truvada deleted
+Q2.5
+Familiarity with new productsPor favor, de las siguientes declaraciones, elija la que mejor describa su nivel de conocimiento o familiaridad con cada una de estas nuevas terapias farmacológicas.
+
+
+Ya he recetado este fármaco……1  Q2.6
+
+Conozco muy bien este fármaco, pero
+nunca lo he recetado…………  2  Q2.6             
+
+Conozco un poco este fármaco………….3  Q2.6 
+
+No estoy familiarizado/a con este fármaco………….4  Q2.8 
+Q2.6
+
+
+
+
+
+
+
+
+
+
+
+Explicit importance¿Hasta qué punto cree que son importantes los siguientes factores a la hora de elegir una terapia farmacológica para la hepatitis B crónica?  
+
+
+
+
+
+Produce una reducción rápida de la carga viral.
+
+Produce una reducción profunda de la carga viral.
+
+Durabilidad del efecto del tratamiento tras la interrupción del mismo.
+
+Resulta en la regresión de la fibrosis.
+
+Produce un alto índice de seroconversión HBeAg.
+
+Eficaz a la hora de suprimir el ADN del VHB a niveles indetectables (negatividad de la PCR)
+
+Funciona bien en combinación con otras terapias.
+
+Facilita una respuesta eficaz y sostenida al tratamiento.
+
+Eficaz para el tratamiento del VHB resistente al adefovir                                                                            
+
+Es poco propenso a inducir resistencia.
+
+Eficaz para el tratamiento del VHB resistente a la lamivudina.
+
+Bajo índice de exacerbaciones de ALT.
+
+Bien tolerada.
+
+La opción de tratamiento más segura / la mejor tolerada.                                                                                                                              
+
+Menos nefrotóxica que otras opciones terapéuticas.
+
+Tiene un menor índice de carcinogenicidad en comparación con otras opciones de terapia antiviral.
+
+Su uso es seguro para mujeres en edad fértil.
+
+Puede ser ingerido con o sin alimentos.
+
+Eficaz para conseguir mis objetivos de tratamiento.
+
+Obtiene un excelente cumplimiento con el tratamiento.
+
+Su precio es asequible.
+
+
+
+
+No es nada importante	1  
+Es sumamente importante	7
+
+Q2.9
+Brand associationPara ayudarnos a entender su percepción de los siguientes fármacos, por favor lea cada una de las siguientes declaraciones y seleccione el fármaco o los fármacos que asocia con ese atributo.  
+
+Asegúrese de marcar todos los fármacos que crea que están muy relacionados con cada atributo.  
+
+Nos interesan sus percepciones incluso si tiene poca experiencia con el producto.
+
+
+
+
+
+
+
+
+
+Ninguno de estos fármacos…………………98
+
+No lo sé / no estoy seguro/a	99  
+
+ATTRIBUTE LIST(One screen)
+
+Produce una reducción rápida de la carga viral.
+
+Produce una reducción profunda de la carga viral.
+
+Durabilidad del efecto del tratamiento tras la interrupción del mismo.
+
+Resulta en la regresión de la fibrosis.
+
+Produce un alto índice de seroconversión HBeAg.
+
+Eficaz a la hora de suprimir el ADN del VHB a niveles indetectables (negatividad de la PCR)
+
+Funciona bien en combinación con otras terapias.
+
+Facilita una respuesta eficaz y sostenida al tratamiento.
+
+Eficaz para el tratamiento del VHB resistente al adefovir                                                                            
+
+Es poco propenso a inducir resistencia.
+
+Eficaz para el tratamiento del VHB resistente a la lamivudina.
+
+Bajo índice de exacerbaciones de ALT.
+
+Bien tolerada.
+
+La opción de tratamiento más segura / la mejor tolerada.                                                                                                                              
+
+Menos nefrotóxica que otras opciones terapéuticas.
+
+Tiene un menor índice de carcinogenicidad en comparación con otras opciones de terapia antiviral.
+
+Su uso es seguro para mujeres en edad fértil.
+
+Puede ser ingerido con o sin alimentos.
+
+Eficaz para conseguir mis objetivos de tratamiento.
+
+Obtiene un excelente cumplimiento con el tratamiento.
+
+Su precio es asequible.
+
+
+
+Q2.10
+Por favor, indique cuál de las siguientes declaraciones describe mejor cómo se sentiría si cada uno de los siguientes fármacos dejara de estar disponible para usted.
+
+
+
+
+
+Encontraría  alternativas sin tener que
+alcanzar compromisos	1  
+
+Encontraría alternativas, pero tendría que
+alcanzar algunos compromisos	2
+
+Encontraría alternativas alcanzando
+muchos compromisos	3
+
+Lo echaría mucho de menos, ningún otro
+fármaco sería una alternativa adecuada	4 
+
+No lo sé / no estoy seguro/a.………………5
+Q2.11Por favor, lea la siguiente declaración e indique hasta qué punto cree que describe a cada uno de los siguientes fármacos. 
+
+Es un fármaco en el que confío.
+
+Use una escala del 1 al 7 en la que “1” significa “estoy muy en desacuerdo” y “7” “estoy muy de acuerdo”. 
+
+
+
+Escala
+
+Estoy muy en desacuerdo	1  
+Estoy muy de acuerdo	7
+
+No lo sé / no estoy seguro/a……………..99
+
+
+
+
+
+Q3.1
+
+
+Ahora va a ver una lista de declaraciones o mensajes que pueden estar relacionados con tratamientos para la hepatitis B crónica. 
+
+Por favor, elija el fármaco o los fármacos que le parezca que están más relacionados con cada declaración. 
+
+
+
+
+
+Facilita una eficacia que aumenta con el tiempo en todas las poblaciones de pacientes. 
+
+El perfil de resistencia más favorable tras un año y después.
+
+Seguridad y tolerabilidad probadas hasta dos años.
+
+Posología cómoda para usted y para sus pacientes: una dosis con o sin alimentos.
+
+El tratamiento antiviral más potente.
+
+Logra una supresión rápida y sostenida del ADN del VHB en suero hasta niveles indetectables.
+
+Demuestra una alta barrera genética a la resistencia entre los pacientes que nunca habían sido tratados con nucleósidos.
+
+Perfil de seguridad comparable al de la lamivudina.
+
+Tiene un modo de acción dual que permite lograr una seroconversión de HBeAg y de HBsAg sostenida una vez que el paciente deja de recibir tratamiento.  
+
+Induce una remisión duradera en todos los pacientes con un tratamiento de duración finita. 
+
+Ofrece una potente supresión viral para lograr una poderosa eficacia.
+
+Logra una reducción viral rápida y profunda.
+
+Permite tener una mayor confianza en que se lograrán los objetivos de tratamiento en un estadio temprano.
+
+MARCAS
+
+adefovir dipivoxil (Hepsera) 
+
+entecavir (Baraclude) 
+
+interferón pegilado (Pegasys) 
+
+telbivudina (Sebivo)
+
+Ninguno de estos fármacos
+
+No lo sé / no estoy seguro/a
+Q3.2
+Number of visits Ahora nos gustaría hacerle unas cuantas preguntas sobre cualquier visita que haya recibido de representantes de ventas o personal de los laboratorios para tratar concretamente de la hepatitis B crónica. 
+
+
+¿Cuántas visitas de este tipo sobre los productos para la terapia de la hepatitis B ha recibido durante los últimos 3 meses de cada uno de los siguientes laboratorios? Si no ha recibido ninguna, por favor introduzca “0”. 
+
+Resp instruction: Si la respuesta es “ninguna”, introduzca un 0. Por favor, introduzca un número.
+
+
+
+Gilead - adefovir dipivoxil (Hepsera)   
+
+Roche - interferón pegilado alpha 2a (Pegasys) 
+
+BMS - entecavir (Baraclude) 
+
+Novartis / Idenix - telbivudina (Sebivo) 
+
+GSK - lamivudina (Zeffix)
+Gilead – tenofovir (Viread) has been removed 
+
+Por favor, anote un número. 
+
+
+Q3.3
+
+¿Cuáles fueron los mensajes principales que le comunicó el representante de ventas de  [INSERT DRUG] durante su visita más reciente?
+
+
+
+Q3.4
+
+
+
+
+
+
+
+Nada probable	1  
+	2  
+	3
+	4
+	5
+	6
+Sumamente probable	7  
+
+
+Q3.5
+
+
+¿Por qué ha dado esa puntuación?
+
+OPEN ENDED
+
+
+
+
+Q4.1
+
+
+
+Inicio la terapia de primera línea con el producto que creo que tiene el mayor impacto en la reducción de la carga viral.
+
+Creo que es fácil tratar la resistencia del VHB.
+
+Creo que el VHB debería tratarse de modo agresivo. 
+
+Una reducción rápida de la carga viral conduce a un mayor éxito del tratamiento.
+
+Creo que tener un impacto en la carga viral es la mejor manera de ralentizar la progresión de la hepatitis B. 
+
+Siempre comento los niveles de carga viral con mis pacientes.
+
+La terapia de combinación con un nucleósido y un nucleótido es el futuro del tratamiento del VHB.
+
+El mayor desafío al que me enfrento al tratar el VHB es que la terapia sea propensa a inducir resistencia del VHB.
+
+Una reducción sostenida del ADN del VHB es una señal de que el tratamiento antiviral para la hepatitis B está funcionando.
+Merece la pena tratar a los pacientes que tienen niveles normales de ALT. 
+
+Prefiero esperar a que mis compañeros informen sus experiencias antes de probar yo mismo un nuevo agente terapéutico (para el VHB). 
+
+
+
+1 = muy en desacuerdo y 5 = muy de acuerdo.
+Q4.2
+Related conferencesRespondent instruction:
+Por favor, elija todas las opciones que sean pertinentes.
+ 
+
+
+Asociación Europea para el
+Estudio del Hígado (EASL) 2007	1  
+
+Asociación Americana para el Estudio de las Enfermedades del Hígado (AASLD) 2006		2   
+
+Otra (por favor, especifique)	3
+
+No he asistido a ninguna	4
+
+Q4.3
+Importance of info sourcesRespondent instruction:
+Por favor, elija todas las opciones que considere importantes.
+
+¿Cuáles de las siguientes opciones considera que son importantes fuentes de información sobre la hepatitis B crónica? 
+
+
+
+
+Revistas médicas.
+
+Copias o descripciones de estudios.
+
+Programas de formación médica.
+
+Reuniones de grupo / reuniones de formación (patrocinadas por laboratorios farmacéuticos).
+
+Presentaciones en conferencias.
+
+Interacciones con otros compañeros.
+
+Representantes de ventas.
+
+Visitas de otros médicos / científicos empleados por laboratorios farmacéuticos.
+
+Prospecto informativo / resumen de las características del producto.
+
+Sitios Web del producto / del laboratorio.
+
+Internet (otros sitios Web).
+
+Correo postal.
+
+Correo electrónico.
+
+
+
+
+
+
+Ahora nos gustaría hacerle unas cuantas preguntas generales sobre sus hábitos de prescripción para la hepatitis B crónica.
+
+
+Q5.1
+Respondent instruction:
+
+Sus respuestas deberían sumar el 100%.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Q5.2¿Cuántos de los pacientes monoinfectados con hepatitis B crónica a quienes ha tratado durante los últimos 12 meses estaban recibiendo los siguientes tratamientos? 
+
+Sus respuestas deberían sumar el 100%.
+
+
+
+
+
+
+
+
+
+
+Q5.3
+
+This question should only be asked for UK
+Respondent instruction: 
+Your answer does not have to total 100%
+
+What proportion of your total patient workload is accounted for by the following types of patients?
+
+
+Resp instruction: If the response is “none”, insert 0. Please enter a precentage
+Please enter a percentage
+
+
+
+
+
+
+
+
+                                                          
+
+¿Cuáles de las siguientes pruebas de detección de ADN del VHB usa de forma rutinaria para controlar la carga viral de sus pacientes?
+
+
+
+* LIC = Límite inferior de cuantificación
+
+
+Versant 3.0	1 
+
+PCR COBAS
+ (LIC = 300 copias/ml)	2 
+
+PCR Taqman de Roche
+(LIC = 50 copias/ml)	3 
+
+PCR a tiempo real de Abbott 	4
+
+La propia técnica de PCR a tiempo real del lugar donde trabaja 
+(Por favor, especifique LIC))	5 
+
+Otra (por favor, 
+especifique el LIC)	98
+
+No lo sé / no estoy seguro/a….……………99
+
+
+¿Están financiadas las pruebas de PCR en el hospital, la clínica o el centro donde trabaja?
+Sí, y no existen restricciones en cuanto 
+al número de pruebas al año	1 
+
+Sí, pero sólo 1 prueba cada 
+3 meses	2 
+
+Sí, pero sólo 1 prueba cada 
+6 meses	3 
+
+Sí, pero sólo 1 prueba  
+al año	4 
+
+Sí, con restricciones 
+(por favor, especifique)	5 
+
+No, no están financiadas	6
+
+No lo sé / no estoy seguro/a……………….98
+Q5.6
+
+
+
+Y, ¿cuál es su definición de una respuesta subóptima a un tratamiento?Una reducción de menos de 2 log en la carga viral desde la línea basal a las 24 semanas después del inicio de la terapia …………….1
+
+Una reducción de menos de 2 log en la carga viral desde la línea basal a las 48 semanas después del inicio de la terapia …….2
+
+ADN del VHB restante > 100.000 
+(10 a la 5ª) copias a las 24 semanas 
+después del inicio de la terapia……………..3
+
+ADN del VHB restante > 100.000 
+(10 a la 5ª) copias a las 48 semanas 
+después del inicio de la terapia ……………..4
+
+ADN del VHB restante > 10.000 
+(10 a la 4ª) copias a las 24 semanas 
+después del inicio de la terapia …………….5
+
+ADN del VHB restante > 10.000 
+(10 a la 4ª) copias a las 48 semanas 
+después del inicio de la terapia ……………..6
+
+El resultado de la PCR permanece positivo para el ADN del VHB (> 300 copies/ml) a las 24 semanas después del inicio de la terapia……………..7
+
+El resultado de la PCR permanece positivo para el ADN del VHB (> 300 copies/ml) a las 48 semanas después del inicio de la terapia ……………………8
+
+
+Otra (por favor, especifique)………………..9
+
+Respondent instruction: Por favor, marque todas las opciones que sean pertinentes.
+
+Indique cómo identifica la resistencia en su práctica clínica.
+Aumento de los niveles de ALT	 1 
+
+Aumento del ADN del VHB de 1 log por encima del nadir del paciente	2
+
+Aumento del ADN del VHB de 1 log por encima del nadir del paciente y presencia de mutaciones de resistencia confirmadas por secuenciación	 3 
+
+Otra opción (por favor, especifique)	 98
+ Q5.8
+
+
+
+Respondent instruction: Su respuesta debería sumar el 100%.
+
+¿Qué porcentaje de todos sus pacientes monoinfectados con hepatitis B crónica pertenece a cada uno de los siguientes grupos étnicos?
+
+
+
+
+De oriente medio/ Turcos
+
+  
+
+
+
+  
+Afro-Caribbean has been removed   
+
+
+
+Otros (por favor, especifique)
+
+
+
+
+Q5.9
+
+
+
+Respondent instruction:
+Por favor, marque todas las opciones que sean pertinentes.
+
+¿Cuáles de los siguientes consensos sigue usted para el tratamiento de los pacientes con hepatitis B crónica?AASLD	1  
+EASL	2
+
+Otras (por favor, especifique)	4  
+Ninguna	5  
+
+
+
+
+
+ITALY: ISF
+
+GERMANY: DEVS
+
+SPAIN: Consenso Español
+
+FRANCE: TBC
+
+
+
+
+
+
+
+
+07-0318 Sebivo ATU Tracking - Wave One Questionnaire 
+
+Page  PAGE 20
+
+
+
+
+
+
+
+
